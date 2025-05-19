@@ -9,11 +9,11 @@ A simple Python game where the computer randomly selects a number between 1 and 
 5. The number of attempts is displayed when the correct guess is made.
 
 ### Example Output
-Welcome to the number guessing game!
-I have chosen a number between 1 - 1000. Guess what!
-Enter your guess number: 500
-Too small! Try again.
-Enter your guess number: 750
-Too big! Try again.
-Enter your guess number: 625
-Congratulations! on guessing the correct number in 3 tries
+#### Welcome to the number guessing game!
+#### I have chosen a number between 1 - 1000. Guess what!
+#### Enter your guess number: 500
+#### Too small! Try again.
+#### Enter your guess number: 750
+#### Too big! Try again.
+#### Enter your guess number: 625
+#### Congratulations! on guessing the correct number in 3 tries
